@@ -1,0 +1,11 @@
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.deps.json
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.runtimeconfig.json
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.runtimeconfig.dev.json
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.dll
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.pdb
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.csprojAssemblyReference.cache
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.AssemblyInfoInputs.cache
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.AssemblyInfo.cs
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.dll
+C:\Users\jalvino\source\repos\Armadar.Services.Helpers\Armadar.Services.Helpers\obj\Debug\netcoreapp2.2\Armadar.Services.Helpers.pdb

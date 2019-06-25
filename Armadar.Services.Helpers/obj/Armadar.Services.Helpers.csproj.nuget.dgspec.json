@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jalvino\\source\\repos\\Armadar.Services.Helpers\\Armadar.Services.Helpers\\Armadar.Services.Helpers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jalvino\\source\\repos\\Armadar.Services.Helpers\\Armadar.Services.Helpers\\Armadar.Services.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jalvino\\source\\repos\\Armadar.Services.Helpers\\Armadar.Services.Helpers\\Armadar.Services.Helpers.csproj",
+        "projectName": "Armadar.Services.Helpers",
+        "projectPath": "C:\\Users\\jalvino\\source\\repos\\Armadar.Services.Helpers\\Armadar.Services.Helpers\\Armadar.Services.Helpers.csproj",
+        "packagesPath": "C:\\Users\\jalvino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jalvino\\source\\repos\\Armadar.Services.Helpers\\Armadar.Services.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jalvino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
